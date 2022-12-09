@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "idCategoria" : "procesadores",
+        "titulo": "Procesador",
+        "marca": "Intel",
+        "modelo": "i3 10105F",
+        "precio": 24700,
+        "stock": 17,
+        "img": "Procesador_Intel_Core_i3_10105F.jpg"
+     },
+     {
+        "id": 2,
+        "idCategoria" : "procesadores",
+        "titulo": "Procesador",
+        "marca": "Intel",
+        "modelo": "Pentium Gold G640",
+        "precio": 20270,
+        "stock": 10,
+        "img": "Procesador_Intel_Pentium_Gold_G640.jpg"
+     },
+     {
+        "id": 3,
+        "idCategoria" : "procesadores",
+        "titulo": "Procesador",
+        "marca": "Intel",
+        "modelo": "i5 11600KF",
+        "precio": 35390,
+        "stock": 12,
+        "img": "Procesador_Intel_Core_i5_11600KF.jpg"
+     },
+     {
+        "id": 4,
+        "idCategoria" : "motherboards",
+        "titulo": "Motherboard",
+        "marca": "Gigabyte",
+        "modelo": "B560 AORUS PRO AX S1200",
+        "precio": 38240,
+        "stock": 32,
+        "img": "Mother_Gigabyte_B560_AORUS_PRO_AX.jpg"
+     },
+     {
+        "id": 5,
+        "idCategoria" : "motherboards",
+        "titulo": "Motherboard",
+        "marca": "Gigabyte",
+        "modelo": "Z590 Vision S1200",
+        "precio": 43000,
+        "stock": 5,
+        "img": "Mother_Gigabyte_Z590_Vision.jpg"
+     },
+     {
+        "id": 6,
+        "idCategoria" : "motherboards",
+        "titulo": "Motherboard",
+        "marca": "MSI",
+        "modelo": "Z590 MEG S1200",
+        "precio": 45150,
+        "stock": 10,
+        "img": "Mother_MSI_MEG_Z590.jpg"
+     },
+     {
+        "id": 7,
+        "idCategoria" : "procesadores",
+        "titulo": "Procesador",
+        "marca": "AMD",
+        "modelo": "Athlon 3000g AM4",
+        "precio": 12300,
+        "stock": 30,
+        "oferta": "sale",
+        "img": "Oferta_amd_athlon_3000g_am4.jpg"
+     },
+     {
+        "id": 8,
+        "idCategoria" : "discos",
+        "titulo": "Disco Solido",
+        "marca": "Crucial",
+        "modelo": "M.2 1TB 3000MBs NVME PCI-E",
+        "precio": 23571,
+        "stock": 20,
+        "img": "Disco_Solido_SSD_M.2_Crucial_1TB.jpg"
+     },
+     {
+        "id": 9,
+        "idCategoria" : "discos",
+        "titulo": "Disco Solido",
+        "marca": "Adata",
+        "modelo": "SSD 480gb SU650",
+        "precio": 11400,
+        "stock": 50,
+        "img": "Disco_Solido_SSD_Adata_480GB.jpg"
+     },
+     {
+        "id": 10,
+        "idCategoria" : "memorias",
+        "titulo": "Memoria RAM",
+        "marca": "Patriot",
+        "modelo": "DDR4 Viper 8GB 3200MHz RGB",
+        "precio": 14865,
+        "stock": 25,
+        "img": "Memoria_Patriot_Viper_DDR4_8GB_3200MHz.jpg"
+     },
+     {
+        "id": 11,
+        "idCategoria" : "memorias",
+        "titulo": "Memoria RAM",
+        "marca": "Team",
+        "modelo": "DDR4 T-Force 4GB 2400MHz",
+        "precio": 11200,
+        "stock": 43,
+        "img": "Memoria_Team_DDR4_4GB_2400MHz.jpg"
+     },
+     {
+        "id": 12,
+        "idCategoria" : "memorias",
+        "titulo": "Memoria RAM",
+        "marca": "Team",
+        "modelo": "DDR4 T-Force 8GB 3200MHz RGB",
+        "precio": 15202,
+        "stock": 25,
+        "img": "Memoria_Team_DDR4_8GB_3200Mhz.jpg"
+     },
+     {
+        "id": 13,
+        "idCategoria" : "placas-video",
+        "titulo": "Placa de video",
+        "marca": "Asrock",
+        "modelo": "RX 570 Phantom Gaming 8GB GDDR5",
+        "precio": 74200,
+        "stock": 40,
+        "img": "Placa_de_Video_Asrock_RX_570_8GB_GDDR5.jpg"
+     },
+     {
+        "id": 14,
+        "idCategoria" : "placas-video",
+        "titulo": "Placa de video",
+        "marca": "Zotac",
+        "modelo": "GTX 1660 SUPER 6GB GDDR6",
+        "precio": 94230,
+        "stock": 35,
+        "img": "Placa_de_Video_Zotac_GeForce_GTX_1660_6GB_GDDR6.jpg"
+     },
+     {
+        "id": 15,
+        "idCategoria" : "gabinetes",
+        "titulo": "Gabinete",
+        "marca": "ASUS",
+        "modelo": "ROG STRIX Helios Aluminum Black RGB",
+        "precio": 143000,
+        "stock": 20,
+        "img": "Gabinete_ASUS_ROG_STRIX_Helios_Aluminum_Black_RGB.jpg"
+     },
+     {
+        "id": 16,
+        "idCategoria" : "gabinetes",
+        "titulo": "Gabinete",
+        "marca": "Deepcool",
+        "modelo": "MATREXX 70 ADD",
+        "precio": 87729,
+        "stock": 20,
+        "img": "Gabinete_Deepcool_MATREXX_70_ADD-RGB.jpg"
+     },
+     {
+        "id": 17,
+        "idCategoria" : "fuentes",
+        "titulo": "Fuente",
+        "marca": "Thermalt",
+        "modelo": "Smart BX1 650w RGB 80Plus",
+        "precio": 21000,
+        "stock": 20,
+        "img": "Fuente_Thermaltake_Smart_BX1_650W_RGB_80_Plus_Bronze.jpg"
+     },
+     {
+        "id": 18,
+        "idCategoria" : "fuentes",
+        "titulo": "Fuente",
+        "marca": "Cooler Master",
+        "modelo": "Full Modular 1250w 80PlusGold",
+        "precio": 36500,
+        "stock": 20,
+        "img": "Fuente_Cooler_Master_1250W_80_Plus_Gold_MWE_V2_Full_Modular.jpg"
+     },
+     {
+        "id": 19,
+        "idCategoria" : "discos",
+        "titulo": "Disco Solido",
+        "marca": "Kingston",
+        "modelo": "SSD 240GB 500MBs",
+        "precio": 6500,
+        "stock": 45,
+        "img": "Disco_S__lido_SSD_Kingston_240GB_A400_500MB.jpg"
+     },
+     {
+        "id": 20,
+        "idCategoria" : "combos",
+        "titulo": "Combo Actualizacion",
+        "marca": "ASUS/Intel",
+        "modelo": "ASUS PRIME H510M-E / Intel Celeron G5905 3.5Ghz",
+        "precio": 43000,
+        "stock": 45,
+        "img": "Combo_Asus_Mother_ASUS_PRIME_H510M-E_Socket_1200__Procesador_Intel_Celeron_G5905_3.5GHz_Socket_1200.jpg"
+     },
+     {
+        "id": 21,
+        "idCategoria" : "combos",
+        "titulo": "Combo Actualizacion",
+        "marca": "ASUS/Intel",
+        "modelo": "ASUS PRIME H610M-A / Intel Core i5 12400",
+        "precio": 123000,
+        "stock": 45,
+        "img": "Combo_Asus_Mother_Asus_Prime_H610M-A_CSM_D4_S1700___Procesador_Intel_Core_i5_12400_Socket_1700.jpg"
+     },
+     {
+        "id": 22,
+        "idCategoria" : "combos",
+        "titulo": "Combo Actualizacion",
+        "marca": "ASUS/AMD",
+        "modelo": "ASUS ROG STRIX B550-A / AMD Ryzen 5 5500",
+        "precio": 135300,
+        "stock": 45,
+        "img": "Combo_Asus_Mother_ASUS_ROG_STRIX_B550-A_Gaming_AM4___Procesador_AMD_Ryzen_5_5500_4.2GHz_Turbo___Wraith_Stealth_Cooler.jpg"
+     },
+     {
+        "id": 23,
+        "idCategoria" : "pc-armadas",
+        "titulo": "PC Armada",
+        "marca": "Cabenli",
+        "modelo": "Intel i5, RAM 8gb, 1TBSSD, Mother ASUS, Gabinete Generic",
+        "precio": 165000,
+        "stock": 15,
+        "img": "PC-Armada.jpeg"
+     },
+     {
+        "id": 24,
+        "idCategoria" : "pc-armadas",
+        "titulo": "PC Armada",
+        "marca": "Cabenli",
+        "modelo": "Ryzen 7, Placa GTX 1630 Nvidea, RAM 16gb, 120GBSSD, Gabinete Generic RGB",
+        "precio": 230000,
+        "stock": 15,
+        "img": "PC-Armada-TT95-Amd-Ryzen-7-4750G-16Gb-GT1630_35185_2.jpeg"
+     },
+     {
+        "id": 25,
+        "idCategoria" : "pc-armadas",
+        "titulo": "PC Armada",
+        "marca": "Cabenli",
+        "modelo": "Ryzen 7, RAM 8gb, 24gbSSD",
+        "precio": 189000,
+        "stock": 15,
+        "oferta": "sale",
+        "img": "PcArmada_Oferta_pc-amd-ryzen-7-5700g-8gb-ssd-240gb.jpg"
+     }
+]
